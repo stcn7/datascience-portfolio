@@ -1,7 +1,7 @@
 # Data Science
 
 ## Education
-B.Bus., | Indonesian University of Education (*Aug 2023*)
+B.Bus., Digital Business | Indonesian University of Education (_Aug 2023_)
 
 ### Work Experience
 Digital Marketing & Web Developer Developer Intern at CV Coco Indonesia Maju
