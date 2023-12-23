@@ -1,4 +1,5 @@
 title: Setiawan Cahyo Nugroho
 #logo: 
-show_download:
+description: My personal work & projects
+show_download: true
 theme: jekyll-theme-minimal
