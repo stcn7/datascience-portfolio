@@ -1,5 +1,5 @@
 # Data Science
-#### Technical Skills: Python, SQL, Excel, Tableu, Looker Studio
+#### Technical Skills: **Python**, **SQL**, **Excel**, **Tableu**, **Looker Studio**
 
 ## Education
 B.Bus., Digital Business | Indonesian University of Education (_Aug 2023_)
