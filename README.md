@@ -8,9 +8,9 @@ B.Bus., Digital Business | Indonesian University of Education (_Aug 2023_)
 **Digital Marketing & Web Developer Developer Intern at CV Coco Indonesia Maju _(Oct 2022 - Jan 2023)**
  
 ### Course & Certificate
-**PCAP 31-03**
-**Google Data Analytics**
-**Excel Associate Certification**
+- **PCAP 31-03**
+- **Google Data Analytics**
+- **Excel Associate Certification**
 
 ### Projects
 [Publication](#)
